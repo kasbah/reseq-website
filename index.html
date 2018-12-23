@@ -1,6 +1,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="stylesheet"
       type="text/css"
@@ -48,6 +49,27 @@
       name="twitter:image"
       content="https://reseq.netlify.com/291px-DaphniaCompositeScaleCrop.jpg"
     />
+    <style>
+      #email-signup-box {
+        margin-left: 5px;
+        padding-left: 10px;
+      }
+      #hiseq-image-box {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+      }
+      @media (min-width: 1200px) {
+        #email-signup-box {
+          border-left: 1px solid rgba(34, 36, 38, 0.15);
+        }
+      }
+      @media (max-width: 514px) {
+        #hiseq-image-box > div > img {
+          width: 300px;
+        }
+      }
+    </style>
   </head>
   <body>
     <div class="ui container vertical segment" style="padding-top:30px">
@@ -56,7 +78,7 @@
       </h1>
     </div>
     <div style="margin-top:20px" class="ui container">
-      <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
+      <div style="display:flex; flex-wrap:wrap;">
         <div style="padding:10px; margin-bottom:40px;">
           <a
             href="http://www.gaudi.ch/GaudiLabs/wp-content/uploads/DaphniaCompositeScaleCrop.tif"
@@ -66,7 +88,7 @@
             data-inverted=""
           >
             <img
-              style="min-width:291px"
+              style="width:291px"
               src="291px-DaphniaCompositeScaleCrop.jpg"
             />
           </a>
@@ -107,9 +129,7 @@
             </li>
           </ul>
         </div>
-        <div
-          style="margin-left:5px; border-left: 1px solid rgba(34,36,38,.15); padding-left:10px"
-        >
+        <div id="email-signup-box">
           <h1 class="ui header">Crowd funding early 2019</h1>
           <p style="font-size:12pt">
             JOIN OUR EMAIL LIST TO BE NOTIFIED OF UPDATES
@@ -119,6 +139,7 @@
             name="contact"
             method="POST"
             data-netlify="true"
+            style="padding:15px"
           >
             <div class="field">
               <label>Your Email</label>
@@ -128,7 +149,9 @@
               </div>
             </div>
           </form>
-          <img src="400px-HiSeq.jpg" />
+          <div id="hiseq-image-box">
+            <div><img src="400px-HiSeq.jpg" /></div>
+          </div>
         </div>
       </div>
     </div>
