@@ -87,10 +87,12 @@ Is it possible to split them in half to make them more manageable?
 If you’re just after the microscope then yes, although in order to do away with the water cooling you need to fit air-cooled heat sinks to the cameras. Otherwise the large number of connections make it fiddly.
 
 
-Will this software damages my machine?
+Will this software damage my machine?
 --------------------------------------
 
-Not if we do it right! We aim to leave the existing Illumina installation untouched so that you can still run either.
+It's very unlikely. We will be thouruoughly testing our software on real machines before making any release but, as with all open source software, we include a disclaimer that we are not liable for any damage caused by people making use of it. 
+
+Installing our software will leave the existing Illumina installation untouched so that you can still run either software at your leisure.
 
 
 Software
