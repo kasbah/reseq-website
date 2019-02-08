@@ -104,7 +104,9 @@ No. You will just need to install Micro-Manager and then copy the DLLs for the D
 Do you require any of the original Illumina installation?
 ---------------------------------------------------------
 
-Yes. The camera and frame grabber drivers need to be present.
+No, the camera and frame grabber drivers (a.k.a DCAM API) do need to be present but these can also be obtained `from the Hamamatsu website`_. 
+
+.. _`from the Hamamatsu website`: https://dcam-api.com/downloads/
 
 
 Do you have drivers/documentation for X?
