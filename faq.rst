@@ -145,7 +145,30 @@ At this point our focus is on creating open software underpinnings that will ena
 What are these other assays that you speak of?
 ----------------------------------------------
 
-People have already implemented assays to look at binding affinity to double-stranded DNA. `This paper`_ used the clusters on a previously-sequenced flow cell to characterise dCas9 off-target binding to sequences similar to the target. Another possible use would be to use the flow cell to implement an assay measure molecule abundance similar to how `this instrument measures RNA expression`_.
+People have already implemented assays to look at binding affinity to double-stranded DNA. `This paper`_ used the clusters on a previously-sequenced flow cell to characterise dCas9 off-target binding to sequences similar to the target. Another possible use would be to use the flow cell to implement an assay measure molecule abundance similar to how `this instrument measures RNA expression`.
+
+Here are the some other papers:
+
+* Boyle, E. A. et al. Proc. Natl Acad. Sci. USA 114, 5461-5466 (2017). High-throughput biochemical profiling reveals sequence determinants of dCas9 off-target binding and unbinding. PMID:`28495970`_
+* Buenrostro, J. D., Giresi, P. G., Zaba, L.C., Chang H. Y. & Greenleaf, W. J. Nature Meth. 10, 1213-1218 (2013). Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position. PMCID:`3959825`_
+* Buenrostro, J. et al. Nature Biotechnol. 32, 562-568 (2014). Quantitative analysis of RNA-protein interactions on a massively parallel array reveals Biophysical and evolutionary landscapes. PMID:`24727714`_
+* Jung, C. et al. Cell 170, 35-47 (2017). Massively Parallel Biophysical Analysis of CRISPR-Cas Complexes on Next Generation Sequencing Chips. PMID:`28666121`_
+* Layton, C. J., McMahon, P. L. & Greenleaf, W. J. Preprint at bioRxiv https://doi.org/10.1101/342808 (2018). Large-scale, quantitative protein assays on a high-throughput DNA sequencing chip. biorxiv:`342808v4`_
+* Nutiu, R. et al. Nature Biotechnol. 29, 659-664 (2011). Direct measurement of DNA affinity landscapes on a high-throughput sequencing instrument. PMID:`21706015`_
+* Subtelny, A. O., Eichhorn, S. W., Chen, G. R., Sive, H. & Bartel, D. P. Nature 508, 66-71 (2014). Poly(A)-tail profiling reveals an embryonic switch in translational control. PMID:`24476825`_
+* Svensen, N., Peersen, O. B. & Jaffrey, S. R. ChemBioChem 17, 1628-1635 (2016). Peptide Synthesis on a Next-Generation DNA Sequencing Platform. PMID:`27385640`_
+* Sweeney, T. E., Braviak, L., Tato, C. M. & Khatri, P. Lancet Respir. Med. 4, 213-224 (2016). Genome-wide expression for diagnosis of pulmonary tuberculosis: a multicohort analysis. PMID:`26907218`_
+
+.. _28495970: https://www.ncbi.nlm.nih.gov/pubmed/28495970
+.. _3959825: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3959825
+.. _24727714: https://www.ncbi.nlm.nih.gov/pubmed/24727714
+.. _28666121: https://www.ncbi.nlm.nih.gov/pubmed/28666121
+.. _342808v4: https://www.biorxiv.org/content/10.1101/342808v4
+.. _21706015: https://www.ncbi.nlm.nih.gov/pubmed/21706015
+.. _24476825: https://www.ncbi.nlm.nih.gov/pubmed/24476825
+.. _27385640: https://www.ncbi.nlm.nih.gov/pubmed/27385640
+.. _26907218: https://www.ncbi.nlm.nih.gov/pubmed/26907218
+
 
 
 .. _This paper: https://www.pnas.org/content/114/21/5461
