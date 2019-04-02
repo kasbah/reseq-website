@@ -2,6 +2,7 @@
 # permanent re-directs for previously used sub-domains
 https://reseq.netlify.com/* https://reseq.hackteria.org/:splat 301!
 https://reseq.monostable.co.uk/* https://reseq.hackteria.org/:splat 301!
+http://reseq.monostable.co.uk/* https://reseq.hackteria.org/:splat 301!
 # temporary re-direct for the FAQ
 https://reseq.hackteria.org/faq.html https://github.com/kasbah/reseq-website/blob/master/faq.rst 302
 https://reseq.hackteria.org/faq https://github.com/kasbah/reseq-website/blob/master/faq.rst 302
