@@ -23,10 +23,10 @@ We are open source hardware and software developers from a variety of background
 
 The money will pay for some software developer time plus a small amount for travel and materials.
 
-UPDATE 25th June: You can track our spending `here`_.
+UPDATE 25th June: You can track `our spending here`_.
 
 .. _this author: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000014
-   _here: https://github.com/kasbah/reseq-website/blob/master/balance.csv
+.. _our spending here: https://github.com/kasbah/reseq-website/blob/master/balance.csv
 
 What is Hackteria?
 ------------------
