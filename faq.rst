@@ -23,7 +23,10 @@ We are open source hardware and software developers from a variety of background
 
 The money will pay for some software developer time plus a small amount for travel and materials.
 
+UPDATE 25th June: You can track our spending `here`.
+
 .. _this author: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000014
+.. _here: https://github.com/kasbah/reseq-website/blob/master/balance.csv
 
 What is Hackteria?
 ------------------
@@ -90,7 +93,7 @@ If you’re just after the microscope then yes, although in order to do away wit
 Will this software damage my machine?
 --------------------------------------
 
-It's very unlikely. We will be thoroughly testing our software on real machines before making any release but, as with all open source software, we include a disclaimer that we are not liable for any damage caused by people making use of it. 
+It's very unlikely. We will be thoroughly testing our software on real machines before making any release but, as with all open source software, we include a disclaimer that we are not liable for any damage caused by people making use of it.
 
 Installing our software will leave the existing Illumina installation untouched so that you can still run either software at your leisure.
 
@@ -106,7 +109,7 @@ No. You will just need to install Micro-Manager and then copy the DLLs for the D
 Do you require any of the original Illumina installation?
 ---------------------------------------------------------
 
-No, the camera and frame grabber drivers (a.k.a DCAM API) do need to be present but these can also be obtained `from the Hamamatsu website`_. 
+No, the camera and frame grabber drivers (a.k.a DCAM API) do need to be present but these can also be obtained `from the Hamamatsu website`_.
 
 .. _`from the Hamamatsu website`: https://dcam-api.com/downloads/
 
