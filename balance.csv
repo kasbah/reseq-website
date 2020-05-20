@@ -1,7 +1,11 @@
 Item,Amount,Details,Detail Amount,Total
 Total Crowd Funding Donations,10048,,,10048
+,,,,
 WeMakeIt Fees (10%),-1004.8,,,9043.2
+,,,,
 Donation to Hackteria,-43.2,,,9000
+,,,,
+"Expenses (Kaspar, Luzern, June 2019)",-325.77,,,8674.23
 ,,"Train, Basel Luzern, SBB ",-78.4,
 ,,"Flights, London Basel, BA",-108.2,
 ,,"Coach, Bristol London, National Express",-41.07,
@@ -10,9 +14,9 @@ Donation to Hackteria,-43.2,,,9000
 ,,"Food/Drink, Migros ",-6.1,
 ,,"Food/Drink, Migros ",-19.5,
 ,,"Food/Drink, Lounge & Bar Suite ",-43,
-"Expenses (Kaspar, Luzern, June 2019)",-325.77,,,8674.23
-"Developer Time (Kaspar, June 2019)",-1400,50 hours x 28CHF,,7274.23
+,,,,
 "Expenses (Kaspar, Bristol, July 2019)",-118.78,PC workstation for camera module,,7155.45
+,,,,
 "Expenses (Kaspar, Luzern, September 2019)",-165.1,,,6990.35
 ,,Travel SBB,-6.8,
 ,,Travel SBB,-6.8,
@@ -24,9 +28,10 @@ Donation to Hackteria,-43.2,,,9000
 ,,Migros M Waldst Tterst Luzern,-46.1,
 ,,Travel SBB,-30,
 ,,Coop-3705 Luzern Rail Luzern,-7.5,
+,,,,
 "Expenses (Kaspar, Berlin, January 2020)",-296.61,,,6693.74
-,,"Flights, London Basel, BA",-129.25,
+,,"Flights, Bristol Berlin",-129.25,
 ,,"Food/Drink, various",-65.7,
 ,,"Food/Drink, various ",-101.66,
-"Developer Time (Kaspar, September 2019 – May 2020)",-1000,,,
-,,,,5693.74
+,,,,
+"Developer Time (Kaspar, September 2019 – May 2020)",-1000,,,5693.74
